@@ -1,0 +1,214 @@
+﻿@using TopSpeed.Domain.ViewModel
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+@model HomePostVM
+
+<!DOCTYPE html>
+<html>
+<head>
+
+    <style>
+        body{
+        background-image: url("/images/bgImage/b (9).jpg");
+        background-size: cover;
+       
+        }
+
+        
+        
+        
+    </style>
+</head>
+
+
+<body>
+    <div class="container-fluid p-5 my-5 bg-transparent text-dark">
+        <div class="text-center">
+            <div class="container">
+                <div class="row">
+                    <div class=" col-md-8">
+                        <h1 class="text-black"> <i class="bi bi-lightning-charge"></i> Travel Times <i class="bi bi-lightning-charge"></i></h1>
+                    </div>
+                    <br>
+                    <div class=" col-md-8">
+                        <p>Learn about </p>
+                    </div>
+                    <br>
+                    <div class="col-md-8">
+                        <form class="d-flex" role="search" action="https://www.google.com/search" method="GET">
+                            <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search" name="q">
+                            <button class="btn btn-success" type="submit">Search</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <br />
+        <br />
+    </div>
+    <div class="container">
+        <div class=" row">
+            <div class=" col-md-12">
+                <form method="post">
+                    <div class="row align-items-center justify-content-center ">
+                        <div class="col-md-2">
+                            <div class="md-1">
+                                <label class="form-label text-black text-uppercase">Vehicle Name</label>
+                            </div>
+                        </div>
+                        <div class="col-md-2">
+                            <div class="md-1">
+                                <label class="form-label text-black text-uppercase">Brand</label>
+                            </div>
+                        </div>
+                        <div class="col-md-2">
+                            <div class="md-1">
+                                <label class="form-label text-black text-uppercase">Vehicle Type</label>
+                            </div>
+                        </div>
+                        <div class="col-md-2">
+                            <div class="md-3">
+                            </div>
+                        </div>
+                        <div class="col-md-2">
+                            <div class="md-3">
+                            </div>
+                        </div>
+
+                    </div>
+                    <div class="row align-items-center justify-content-center bg-Transprant">
+                        <div class="col-md-2 ">
+                            <div class="md-3">
+                                <input asp-for="@Model.searchBox" class="form-control text-white bg-dark" />
+                            </div>
+                        </div>
+                        <div class="col-md-2">
+                            <div class="md-3">
+                                <select asp-for="@Model.BrandId" asp-items="@Model.BrandList" class="form-select text-white bg-dark">
+                                    <option value="@Guid.Empty">--All--</option>
+                                </select>
+                            </div>
+                        </div>
+                        <div class="col-md-2">
+                            <div class="md-3">
+                                <select asp-for="@Model.VehicleTypeId" asp-items="@Model.VehicleTypeList" class="form-select text-white bg-dark">
+                                    <option value="@Guid.Empty">--All--</option>
+                                </select>
+                            </div>
+                        </div>
+                        <div class="col-md-2">
+                            <div class="md-3">
+                                <button class="btn btn-success form-control" type="submit">Search</button>
+                            </div>
+                        </div>
+                        <div class="col-md-2">
+                            <div class="md-3">
+                                <a href="@Url.Action("Index",new {page =1,resetFilter =true })" class="btn btn-primary fprm-control">Reset</a>
+                            </div>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+    <br />
+    <br />
+    @if (Model.Posts.Count > 0)
+    {
+        <div class="container">
+            <div class="row">
+                @foreach (var item in Model.Posts)
+                {
+                    <div class="col-md-4 margin-bottom:20px" class="spinner-border text-success">
+                        <div clss=" card-border-2  border-dark  bg-white rounded">
+                            <div class="card-header">
+                                <img src="@item.VehicleImage" height="500px" width="100%" />
+                            </div>
+                            <div class="cart-body">
+                                <div class="row">
+                                    <div class="col-md-6">
+                                        <h6 class="text-primary text-uppercase" style="font-weight:bold">@item.Name</h6>
+                                        <p class=" text-uppercase" style="font-weight:bold;color:red"><span>@item.PriceFrom.ToString("c")</span></p>
+                                        <a class="btn btn-success" href="@Url.Action("Details","Home",new {id = item.Id,page = ViewBag.CurrentPage})">Details</a>
+                                       
+                                    </div>
+                                    <div class="col text-end ">
+                                        <img src="@item.Brand.BrandLogo" width="60px" height="60px" class="spinner-border text-success" />
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>
+        </div>
+
+        <nav aria-label="Page navigation example " >
+            <ul class="pagination justify-content-center " style="margin:20px 0">
+                <li class="page-item ">
+                    @if (ViewBag.CurrentPage > 1)
+                    {
+                        <a class="page-link bg-transparent" href="@Url.Action("Index", new { page = ViewBag.CurrentPage - 1})" aria-label="Previous">
+                            <span aria-hidden="true">&laquo;</span>
+                            <span class="sr-only btn btn-info" >Previous</span>
+                        </a>
+                    }
+                    else
+                    {
+                        @*@<span class="page-link" aria-hidden="true">&laquo;</span>
+                            <span class="sr-only">Previous</span>*@
+                    }
+                </li>
+                @if (ViewBag.TotalPages > 1)
+                {
+                    for (int i = 1; i <= ViewBag.TetalPages; i++)
+                    {
+                        if(i == ViewBag.CurrentPage)
+                        {
+                            <li class="page-itan active"><span class="page-Link">@i</span></li>
+                        }
+                        else
+                        {
+                            <li class="page-item"><a class="page-Link" href="@Url.Action(" Index", new { page = i })">@i</a></li>
+                        }
+            
+                    }
+
+                }
+
+                <li class="page-item ">
+                    @if (ViewBag.CurrentPage < ViewBag.TotalPages)
+                    {
+                        <a class="page-link bg-transparent" href="@Url.Action("Index", new { page = ViewBag.CurrentPage + 1})" aria-label="Next">
+                            <span class="sr-only btn btn-info">Next</span>
+                            <span aria-hidden="true">&laquo;</span>
+                        </a>
+
+                    }
+                    else
+                    {
+                        @*@<span class="page-link" aria-hidden="true">&laquo;</span>
+                            <span class="sr-only">Previous</span>*@
+                    }
+
+                </li>
+            </ul>
+        </nav>
+    }
+    else
+    {
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <h2 class="text-center text-uppercase text-warning">No Records To Show</h2>
+                </div>
+            </div>
+        </div>
+    }
+    <!-- End of .container -->
+</body>
+</html>
+

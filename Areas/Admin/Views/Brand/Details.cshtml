@@ -1,0 +1,64 @@
+﻿@model Brand
+
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body {
+            background-image: url("/images/bgImage/bgi (18).jpg");
+            background-size: cover;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="card table-dark ">
+            <div class="card-header text-center text-uppercase text-dark">
+                Brand Details
+            </div>
+            <div class="card-body">
+                <div class="row">
+                    <div class="col-md-8">
+                        <div class="row">
+                            <div class="col-md-8">
+                                <p class="card-text text-uppercase text-dark"><strong>Id</strong></p>
+                                <p class="card-text text-dark">@Model.Id</p>
+                            </div>
+                        </div>
+                        <br>
+                        <div class="row">
+                            <div class="col-md-8">
+                                <p class="card-text text-uppercase text-dark"><strong>Brand Name</strong></p>
+                                <p class="card-text text-dark">@Model.Name</p>
+                            </div>
+                        </div>
+                        <br>
+                        <div class="row">
+                            <div class="col-md-8">
+                                <p class="card-text text-uppercase text-dark"><strong>Established Year</strong></p>
+                                <p class="card-text text-dark">@Model.EstablishedYear</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <img src="@Model.BrandLogo" width="100%" />
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12 text-center">
+                        <a asp-controller="Brand" asp-action="Index" class="btn btn-danger">Back</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+    </div>
+    @section Scripts {
+        <partial name="_ValidationScriptsPartial" />
+    }
+
+    
+
+</body>
+</html>

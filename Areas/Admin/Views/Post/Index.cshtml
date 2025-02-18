@@ -1,0 +1,108 @@
+﻿
+@model List<Post>
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body {
+            background-image: url("/images/bgImage/b (8).jpg");
+            background-size: cover;
+        }
+        /* Optional: Add a semi-transparent overlay if the background is too bright */
+        .overlay {
+            position: fixed; /* Or absolute, depending on your layout */
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(255, 255, 255, 0.5); /* Adjust opacity as needed */
+            /* Make sure the overlay is below other content */
+            z-index: -1; /* Or a lower z-index */
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="row md-6">
+            <div class="col-md-6 text-uppercase">
+                <h1>Post List</h1>
+            </div>
+            <div class="col-md-6 text-end">
+                <a asp-area="Admin" asp-controller="Post" asp-action="Create" class="btn btn-primary"><i class="bi bi-node-plus-fill"></i> Create</a>
+            </div>
+        </div>
+        <hr />
+        @if (Model.Count() > 0)
+        {
+            <table id="table" class="table table-bordered table-success table-striped table-dark table-hover">
+                <thead>
+                    <tr>
+                        <th class="text-center">Name</th>
+                        <th class="text-center">Brand</th>
+                        <th class="text-center">vehicle Type</th>
+                        <th class="text-center">Ratings</th>
+                        <th class="text-center">Actions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td width="25%">@item.Name</td>
+                            <td>@item.Brand.Name</td>
+                            <td>@item.VehicleType.Name</td>
+                            <td>@item.Ratings</td>
+                            <td class="d-flex align-items-center justify-content-center">
+                                <div class="w-75 btn-group" role="group">
+
+                                    <a asp-area="Admin" asp-controller="Post" asp-action="Details" asp-route-id="@item.Id"
+                                       class="btn btn-info" date-toggle="tooltip" data-placement="top" title="Details">
+                                        <i class="bi bi-card-checklist"></i>
+                                    </a>
+                                    <a asp-area="Admin" asp-controller="Post" asp-action="Edit" asp-route-id="@item.Id"
+                                       class="btn btn-warning" date-toggle="tooltip" data-placement="top" title="Edit">
+                                        <i class="bi bi-pencil-square"></i>
+                                    </a>
+                                    <a asp-area="Admin" asp-controller="Post" asp-action="Delete" asp-route-id="@item.Id"
+                                       class="btn btn-danger" date-toggle="tooltip" data-placement="top" title="Delete">
+                                        <i class="bi bi-trash"></i>
+                                    </a>
+                                </div>
+
+
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        }
+        else
+        {
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+
+                        <h2 class="text-center text-uppercase text-warning">No Records To Show</h2>
+
+
+                    </div>
+
+                </div>
+
+            </div>
+        }
+
+
+
+    </div>
+
+    @section Scripts {
+        <script>
+            $('.table').DataTable();
+        </script>
+    }
+
+    
+
+</body>
+</html>

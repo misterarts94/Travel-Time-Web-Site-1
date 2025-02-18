@@ -1,0 +1,39 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>disable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="8.0.11" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="9.0.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="8.0.11" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="9.0.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="9.0.1">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="8.0.7" />
+    <PackageReference Include="SendGrid" Version="9.29.3" />
+    <PackageReference Include="Serilog.AspNetCore" Version="9.0.0" />
+    <PackageReference Include="Serilog.AspNetCore.Enrichers.CorrelationId" Version="1.0.0" />
+    <PackageReference Include="Serilog.AspNetCore.IPLogging" Version="0.3.1" />
+    <PackageReference Include="Serilog.Aspnetcore.Middleware" Version="1.0.0" />
+    <PackageReference Include="Serilog.Expressions" Version="5.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\images\brand\" />
+    <Folder Include="wwwroot\images\bgImage\" />
+    <Folder Include="wwwroot\images\post\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TopSpeed.Application\TopSpeed.Application.csproj" />
+    <ProjectReference Include="..\TopSpeed.Domain\TopSpeed.Domain.csproj" />
+    <ProjectReference Include="..\Top[Speed.Infrastructure\TopSpeed.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

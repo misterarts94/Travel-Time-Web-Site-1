@@ -1,0 +1,481 @@
+{
+  "Files": [
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TopSpeed.Web.bundle.scp.css",
+      "PackagePath": "staticwebassets\\TopSpeed.Web.3jzrvg6uhp.bundle.scp.css"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\css\\f59dc6e9-8046-424a-9638-324c6955915a.jpg",
+      "PackagePath": "staticwebassets\\css\\f59dc6e9-8046-424a-9638-324c6955915a.jpg"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\images\\bgImage\\b (1).jpg",
+      "PackagePath": "staticwebassets\\images\\bgImage\\b (1).jpg"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\images\\bgImage\\b (10).jpg",
+      "PackagePath": "staticwebassets\\images\\bgImage\\b (10).jpg"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\images\\bgImage\\b (11).jpg",
+      "PackagePath": "staticwebassets\\images\\bgImage\\b (11).jpg"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\images\\bgImage\\b (2).jpg",
+      "PackagePath": "staticwebassets\\images\\bgImage\\b (2).jpg"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\images\\bgImage\\b (3).jpg",
+      "PackagePath": "staticwebassets\\images\\bgImage\\b (3).jpg"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\images\\bgImage\\b (4).jpg",
+      "PackagePath": "staticwebassets\\images\\bgImage\\b (4).jpg"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\images\\bgImage\\b (5).jpg",
+      "PackagePath": "staticwebassets\\images\\bgImage\\b (5).jpg"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\images\\bgImage\\b (6).jpg",
+      "PackagePath": "staticwebassets\\images\\bgImage\\b (6).jpg"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\images\\bgImage\\b (7).jpg",
+      "PackagePath": "staticwebassets\\images\\bgImage\\b (7).jpg"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\images\\bgImage\\b (8).jpg",
+      "PackagePath": "staticwebassets\\images\\bgImage\\b (8).jpg"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\images\\bgImage\\b (9).jpg",
+      "PackagePath": "staticwebassets\\images\\bgImage\\b (9).jpg"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\images\\bgImage\\bg1 (6).jpg",
+      "PackagePath": "staticwebassets\\images\\bgImage\\bg1 (6).jpg"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\images\\bgImage\\bg1 (7).jpg",
+      "PackagePath": "staticwebassets\\images\\bgImage\\bg1 (7).jpg"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\images\\bgImage\\bgi (10).jpg",
+      "PackagePath": "staticwebassets\\images\\bgImage\\bgi (10).jpg"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\images\\bgImage\\bgi (13).jpg",
+      "PackagePath": "staticwebassets\\images\\bgImage\\bgi (13).jpg"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\images\\bgImage\\bgi (16).jpg",
+      "PackagePath": "staticwebassets\\images\\bgImage\\bgi (16).jpg"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\images\\bgImage\\bgi (17).jpg",
+      "PackagePath": "staticwebassets\\images\\bgImage\\bgi (17).jpg"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\images\\bgImage\\bgi (18).jpg",
+      "PackagePath": "staticwebassets\\images\\bgImage\\bgi (18).jpg"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\images\\bgImage\\bgi (3).jpg",
+      "PackagePath": "staticwebassets\\images\\bgImage\\bgi (3).jpg"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\images\\bgImage\\bgi (6).jpg",
+      "PackagePath": "staticwebassets\\images\\bgImage\\bgi (6).jpg"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\images\\brand\\0d4d2f26-89be-4130-b6fc-d0eb6e30b42f.jpg",
+      "PackagePath": "staticwebassets\\images\\brand\\0d4d2f26-89be-4130-b6fc-d0eb6e30b42f.jpg"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\images\\brand\\1eac8c5d-85ba-4622-b764-967de521a5bb.jpg",
+      "PackagePath": "staticwebassets\\images\\brand\\1eac8c5d-85ba-4622-b764-967de521a5bb.jpg"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\images\\brand\\261b8b3d-eecd-4703-a847-d3ec4063de37.jpg",
+      "PackagePath": "staticwebassets\\images\\brand\\261b8b3d-eecd-4703-a847-d3ec4063de37.jpg"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\images\\brand\\2b8e4deb-5ad0-4291-8c88-ebc181c602f8.jpg",
+      "PackagePath": "staticwebassets\\images\\brand\\2b8e4deb-5ad0-4291-8c88-ebc181c602f8.jpg"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\images\\brand\\70eef0da-6880-4b9b-b8a0-79b0149a10da.jpg",
+      "PackagePath": "staticwebassets\\images\\brand\\70eef0da-6880-4b9b-b8a0-79b0149a10da.jpg"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\images\\brand\\8104ac57-117a-4ecb-b855-b1a921636cb8.jpg",
+      "PackagePath": "staticwebassets\\images\\brand\\8104ac57-117a-4ecb-b855-b1a921636cb8.jpg"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\images\\brand\\81229960-5d5d-4e9f-91b9-5df97ed70fdc.jpg",
+      "PackagePath": "staticwebassets\\images\\brand\\81229960-5d5d-4e9f-91b9-5df97ed70fdc.jpg"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\images\\brand\\817e7066-fa67-4e6d-bd5d-b885b9fac527.jpg",
+      "PackagePath": "staticwebassets\\images\\brand\\817e7066-fa67-4e6d-bd5d-b885b9fac527.jpg"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\images\\brand\\82b1a530-a505-4ce4-8659-60b4138e59bb.jpg",
+      "PackagePath": "staticwebassets\\images\\brand\\82b1a530-a505-4ce4-8659-60b4138e59bb.jpg"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\images\\brand\\8501b326-155a-47a9-9d31-0c4e07639380.jpg",
+      "PackagePath": "staticwebassets\\images\\brand\\8501b326-155a-47a9-9d31-0c4e07639380.jpg"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\images\\brand\\87215b22-a8cb-4ef2-99cb-797f9ceab6a4.jpg",
+      "PackagePath": "staticwebassets\\images\\brand\\87215b22-a8cb-4ef2-99cb-797f9ceab6a4.jpg"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\images\\brand\\92ca31dd-824c-4c45-8489-3b8f1eb96715.jpg",
+      "PackagePath": "staticwebassets\\images\\brand\\92ca31dd-824c-4c45-8489-3b8f1eb96715.jpg"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\images\\brand\\9ef529c0-4f59-4978-8338-6e6ebedfd873.jpg",
+      "PackagePath": "staticwebassets\\images\\brand\\9ef529c0-4f59-4978-8338-6e6ebedfd873.jpg"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\images\\brand\\b2971624-644d-4572-845f-61715b135c99.jpg",
+      "PackagePath": "staticwebassets\\images\\brand\\b2971624-644d-4572-845f-61715b135c99.jpg"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\images\\brand\\bf2b08c6-f1a1-43c6-b613-d1a5a7a0a8ec.jpg",
+      "PackagePath": "staticwebassets\\images\\brand\\bf2b08c6-f1a1-43c6-b613-d1a5a7a0a8ec.jpg"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\images\\brand\\e3b268e0-bb7c-4fa3-8f25-9935c0c8d381.jpg",
+      "PackagePath": "staticwebassets\\images\\brand\\e3b268e0-bb7c-4fa3-8f25-9935c0c8d381.jpg"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\images\\post\\218cfb1c-013b-4646-89eb-21a05e86c940.jpg",
+      "PackagePath": "staticwebassets\\images\\post\\218cfb1c-013b-4646-89eb-21a05e86c940.jpg"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\images\\post\\2733d89e-2a36-40a6-a065-cf239ee7ad8f.jpg",
+      "PackagePath": "staticwebassets\\images\\post\\2733d89e-2a36-40a6-a065-cf239ee7ad8f.jpg"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\images\\post\\2bd2fd10-21d0-473a-9771-ccadbff4c951.jpg",
+      "PackagePath": "staticwebassets\\images\\post\\2bd2fd10-21d0-473a-9771-ccadbff4c951.jpg"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\images\\post\\3043b313-5272-4fd1-ae01-9446a6cc7c35.jpg",
+      "PackagePath": "staticwebassets\\images\\post\\3043b313-5272-4fd1-ae01-9446a6cc7c35.jpg"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\images\\post\\3542dbc2-bf4b-464b-83fc-bfff2d12cc21.jpg",
+      "PackagePath": "staticwebassets\\images\\post\\3542dbc2-bf4b-464b-83fc-bfff2d12cc21.jpg"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\images\\post\\3547b6a7-c989-4f1d-b080-d90e767845a3.jpg",
+      "PackagePath": "staticwebassets\\images\\post\\3547b6a7-c989-4f1d-b080-d90e767845a3.jpg"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\images\\post\\7af376a3-3717-4cbc-8ccf-8c74e5b07841.jpg",
+      "PackagePath": "staticwebassets\\images\\post\\7af376a3-3717-4cbc-8ccf-8c74e5b07841.jpg"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\images\\post\\9032e428-8069-4612-8621-0369cb4be5d4.jpg",
+      "PackagePath": "staticwebassets\\images\\post\\9032e428-8069-4612-8621-0369cb4be5d4.jpg"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\images\\post\\94045084-14fd-4d40-9b18-193af1c3639d.jpg",
+      "PackagePath": "staticwebassets\\images\\post\\94045084-14fd-4d40-9b18-193af1c3639d.jpg"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\images\\post\\982388c1-e7fc-4dd0-9395-a0200e7ddcf2.jpg",
+      "PackagePath": "staticwebassets\\images\\post\\982388c1-e7fc-4dd0-9395-a0200e7ddcf2.jpg"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\images\\post\\9fa35a9b-1b08-4402-b3f4-748790ebca29.jpg",
+      "PackagePath": "staticwebassets\\images\\post\\9fa35a9b-1b08-4402-b3f4-748790ebca29.jpg"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\images\\post\\ae5122e1-bd34-44dd-9792-cf6f0732621c.jpg",
+      "PackagePath": "staticwebassets\\images\\post\\ae5122e1-bd34-44dd-9792-cf6f0732621c.jpg"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\images\\post\\c3e6fe02-ba94-4f2b-9b35-78be4f3097ac.jpg",
+      "PackagePath": "staticwebassets\\images\\post\\c3e6fe02-ba94-4f2b-9b35-78be4f3097ac.jpg"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\images\\post\\c48b0da7-0014-4fa2-8afa-6384101de935.jpg",
+      "PackagePath": "staticwebassets\\images\\post\\c48b0da7-0014-4fa2-8afa-6384101de935.jpg"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\images\\post\\f0ba3cee-1df9-473d-aff8-4790dfd37183.jpg",
+      "PackagePath": "staticwebassets\\images\\post\\f0ba3cee-1df9-473d-aff8-4790dfd37183.jpg"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\images\\post\\f43cf2c1-56d9-4992-bbbe-cbf3fcbc95ed.jpg",
+      "PackagePath": "staticwebassets\\images\\post\\f43cf2c1-56d9-4992-bbbe-cbf3fcbc95ed.jpg"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "G:\\Top Speed\\TopSpeed.AutoMobile\\TopSpeed.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TopSpeed.Web.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TopSpeed.Web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.TopSpeed.Web.props",
+      "PackagePath": "build\\TopSpeed.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.TopSpeed.Web.props",
+      "PackagePath": "buildMultiTargeting\\TopSpeed.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.TopSpeed.Web.props",
+      "PackagePath": "buildTransitive\\TopSpeed.Web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

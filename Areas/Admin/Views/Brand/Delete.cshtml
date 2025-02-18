@@ -1,0 +1,55 @@
+﻿@model Brand
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body {
+            background-image: url("/images/bgImage/bgi (18).jpg");
+            background-size: cover;
+
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <h1 class="text-uppercase text-center text-white">Delete Brands</h1>
+            </div>
+        </div>
+        <div class="row ">
+            <div class="col-md-8 border-5 ">
+                <form method="post" enctype="multipart/form-data">
+                    <input asp-for="@Model.Id" hidden />
+                    <input asp-for="@Model.BrandLogo" hidden />
+                    <div class="mb-3">
+                        <label asp-for="@Model.Name" class="form-label text-white"></label>
+                        <input asp-for="@Model.Name" class="form-control" disabled />
+
+                    </div>
+                    <div class="mb-3">
+                        <label asp-for="@Model.EstablishedYear" class="form-label text-white"></label>
+                        <input asp-for="@Model.EstablishedYear" class="form-control" disabled />
+
+                    </div>
+
+                    <div class="mb-3">
+                        <a asp-controller="Brand" asp-action="Index" class="btn btn-warning">back</a>
+                        <button type="submit" class="btn btn-danger" style="Width:150px">Delete</button>
+
+                    </div>
+                </form>
+            </div>
+            <div class="col-md-4">
+                @if (Model.BrandLogo != null)
+                {
+                    <img src="@Model.BrandLogo" width="100%" />
+                }
+            </div>
+        </div>
+    </div>
+
+   
+
+</body>
+</html>
